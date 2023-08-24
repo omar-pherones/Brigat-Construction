@@ -1,0 +1,50 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    #top_bar{
+        display: none;
+    }
+    .navbar-toggler-icon {
+        width: 1.3em;
+        height: 1.3em;
+
+    }
+    .navbar-toggler{
+        border: none;
+        background-color: transparent;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    #banner .slider_item h1 {
+        font-size: 30px;
+        font-weight: 500;
+        letter-spacing: 2px;
+        line-height: 38px;
+        margin-bottom: 5px;
+    }
+    #banner .slider_item h1 span {
+        margin-top: 0;
+    }
+    #banner .slider_item p {
+        width: auto;
+        font-size: 18px;
+        line-height: 30px
+;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768.98px){
+
+}
+@media (min-width: 769px) and (max-width: 991.987px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+@media (min-width: 1200px) and (max-width: 1400.98px) {
+
+}
